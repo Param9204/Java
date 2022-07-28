@@ -6,7 +6,7 @@ public class cwh_21_ch5_loops {
 
         System.out.println("Using Loops:");
         int i = 100;
-        while(i<=200){de
+        while(i<=200){
             System.out.println(i);
             i++;
         }
